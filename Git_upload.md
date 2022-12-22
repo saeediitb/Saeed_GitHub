@@ -10,4 +10,4 @@ git clone https://github.com/saeediitb/test.git
 6. git add -all if one want to add all file 
 7. type a massage: git commit -m "Not working code Commit"
 
-8. git push -u origin main for upload
+8. git push -u origin main, for upload
